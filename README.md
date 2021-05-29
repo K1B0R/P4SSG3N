@@ -28,19 +28,8 @@ $ python3 PassGen.py
 ## HOW TO USE EXE
 
 ```console
-First what we need to do is disable windows defender! follow the pictures to disable windows defender
+Just doubble CLick it :3
 ```
-![winsec1](https://u.cubeupload.com/PsychoCoder/winsec1.png)<br />
-```console
-Now click "Manage Settings"
-```
-![winsec2](https://u.cubeupload.com/PsychoCoder/winsec2.png)<br />
-```console
-Now Disable Real TIme Scanning, and then done!
-```
-![winsec3](https://u.cubeupload.com/PsychoCoder/winsec3.png)<br />
-<br />
-
   https://www.buymeacoffee.com/PsychoCoder
 
   https://paypal.me/thegammerssimulant?locale.x=en_US
