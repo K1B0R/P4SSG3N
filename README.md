@@ -16,6 +16,8 @@ $ pip install colorama
 You only need to install colorama if you are runing the python file!
 If you want to use the windows "exe" file make sure to turn off windows defender because it picks up as "malicious" when it's not. If you want to test if it does
 install "pyinstaller" then converte to exe and you can see for yourself that it picks up thus me quote in the begining 😂
+
+V1.1 Came Out 5/29/2021 Just made it standalone used "nuitka" to convert it and add a icon. Now windows defender does not say it is "malicious" and now we have one less pain in the ass 
 ```
 
 ## USAGE
