@@ -1,2 +1,2 @@
 # P4SSG3N
-This is a password generator that is fully programmed in Python. I had used PyInstaller To Convert it into an windows program "exe". For some reasxon the "exe" if flagged as "malicious" when it is not. 
+This is a password generator that is fully programmed in Python. I had used PyInstaller To Convert it into an windows program "exe". For some reasxon the "exe" if flagged as "malicious" when it is not. If you do not wish do use the "exe" version feel free to use the python version instead, and if you also want to see that it is not malicious aswell install pyinstaller convert the python file into a "exe" and watch it get caught by win defender. "When the shittest antivirus finnaly pics up a file but when you notice its not even malicious 😂" - MalwareMix
