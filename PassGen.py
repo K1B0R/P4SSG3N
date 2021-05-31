@@ -49,6 +49,7 @@ elif exit_program == 'y':
         [1] Encrypt Password
         [2] Out Put Password Into Document
         [3] My GitHub
+        [4] Decode Password
         ''')
     print('\n')
 
@@ -79,4 +80,21 @@ elif exit_program == 'y':
         elif UwU == 'N':
             KeyboardInterrupt
         elif UwU == 'n':
+            KeyboardInterrupt
+    elif pass_gen == '4':
+        base64_message = input('Paste Your Encoded Password Here: ')
+        base64_bytes = base64_message.encode('ascii')
+        message_bytes = base64.b64decode(base64_bytes)
+        message = message_bytes.decode('ascii')
+        print(message)
+        
+        print('Out Put To A .txt File?')
+        OwO = input('(Y/N): ')
+        if OwO == 'Y':
+            write_file('Decoded.txt', message)
+        elif OwO == 'y':
+            write_file('Decoded.txt', message)
+        elif OwO == 'N':
+            KeyboardInterrupt
+        elif OwO == 'n':
             KeyboardInterrupt
