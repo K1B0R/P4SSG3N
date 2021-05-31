@@ -13,6 +13,7 @@ $ cd P4SSG3N
 
 # install the requirements
 $ pip install colorama
+$ pip install base64
 You only need to install colorama if you are runing the python file!
 
 V1.1 Came Out 5/29/2021 Just made it standalone used "nuitka" to convert it and add a icon. Now windows defender does not say it is "malicious" and now we have one less pain in the ass 
